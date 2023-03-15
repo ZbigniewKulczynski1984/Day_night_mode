@@ -1,1 +1,5 @@
-# Day_night_mode
+# Day/night mode
+
+## HTML
+## CSS
+## JavaScript
